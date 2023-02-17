@@ -1,16 +1,17 @@
 /* WORD LADDER Main.java
  * EE422C Project 3 submission by
  * Replace <...> with your actual data.
- * Drew Bernard
- * dhb653
- * 16225
- * Pulkit Mahajan
- * pm28838
- * 16225
+ * <Paawan Desai>
+ * <pkd397>
+ * <17140>>
+ * <Student2 Name>
+ * <Student2 EID>
+ * <Student2 5-digit Unique No.>
  * Slip days used: <0>
- * Git URL: https://github.com/EE422C/project-3-wordladder-pair-72
- * Spring 2019
+ * Git URL:
+ * Spring 2022
  */
+
 
 package assignment3;
 
